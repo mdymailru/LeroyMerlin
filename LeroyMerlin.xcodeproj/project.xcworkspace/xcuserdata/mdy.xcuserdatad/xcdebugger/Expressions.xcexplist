@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MainCell.collectionView(_:cellForItemAt:):MainCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MainCollectionViewController.collectionView(_:viewForSupplementaryElementOfKind:at:):MainCollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MainCollectionViewController.viewDidLoad():MainCollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nib == nil">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
